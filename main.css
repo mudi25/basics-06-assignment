@@ -1,0 +1,22 @@
+body {
+    font-family: 'Franklin Gothic Medium';
+}
+#assignment-instructions {
+    color: #4b4b4b;
+    font-family: sans-serif;
+}
+code {
+    color: red;
+    /* font-family: monospace; */
+}
+.greenCode code{
+    color: greenyellow;
+}
+li + li {
+    color: #ffffff;
+    background: #000000;
+}
+ol > li {
+    color: #ffffff;
+    background: #000000;
+}
